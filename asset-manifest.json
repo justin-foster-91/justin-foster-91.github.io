@@ -1,31 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.015e39d6.chunk.css",
-    "main.js": "/static/js/main.3926472c.chunk.js",
-    "main.js.map": "/static/js/main.3926472c.chunk.js.map",
+    "main.css": "/static/css/main.478a01c6.chunk.css",
+    "main.js": "/static/js/main.c421e5d2.chunk.js",
+    "main.js.map": "/static/js/main.c421e5d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.1395b178.chunk.js": "/static/js/2.1395b178.chunk.js",
-    "static/js/2.1395b178.chunk.js.map": "/static/js/2.1395b178.chunk.js.map",
+    "static/js/2.117cf7c2.chunk.js": "/static/js/2.117cf7c2.chunk.js",
+    "static/js/2.117cf7c2.chunk.js.map": "/static/js/2.117cf7c2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.615aa2ef5f65ccde4cd594cfb6232e74.js": "/precache-manifest.615aa2ef5f65ccde4cd594cfb6232e74.js",
+    "precache-manifest.3926b199aa5047c63e5671a9a3a1ffe5.js": "/precache-manifest.3926b199aa5047c63e5671a9a3a1ffe5.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.015e39d6.chunk.css.map": "/static/css/main.015e39d6.chunk.css.map",
-    "static/js/2.1395b178.chunk.js.LICENSE.txt": "/static/js/2.1395b178.chunk.js.LICENSE.txt",
-    "static/media/avatar.png": "/static/media/avatar.7c8e5f50.png",
+    "static/css/main.478a01c6.chunk.css.map": "/static/css/main.478a01c6.chunk.css.map",
+    "static/js/2.117cf7c2.chunk.js.LICENSE.txt": "/static/js/2.117cf7c2.chunk.js.LICENSE.txt",
+    "static/media/CodeSpells.png": "/static/media/CodeSpells.765e4e8f.png",
+    "static/media/GOAT.png": "/static/media/GOAT.ae1d003b.png",
+    "static/media/Logbook.png": "/static/media/Logbook.9dca26bb.png",
+    "static/media/Spaced_Repetition.jpg": "/static/media/Spaced_Repetition.d9b78851.jpg",
+    "static/media/breakout.png": "/static/media/breakout.3f178738.png",
     "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
-    "static/media/html-css-javascript-lg.jpg": "/static/media/html-css-javascript-lg.54fd4234.jpg",
-    "static/media/html-css-javascript.jpg": "/static/media/html-css-javascript.2c7701aa.jpg",
-    "static/media/javascript-fullstack.jpg": "/static/media/javascript-fullstack.730958a2.jpg",
-    "static/media/mern-stack.jpg": "/static/media/mern-stack.90616a5d.jpg",
     "static/media/myAvatar.png": "/static/media/myAvatar.64b7e553.png",
-    "static/media/react-redux.jpg": "/static/media/react-redux.a8b012a0.jpg",
-    "static/media/react.png": "/static/media/react.f370c1e0.png"
+    "static/media/nexus.png": "/static/media/nexus.212ad00b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/js/2.1395b178.chunk.js",
-    "static/css/main.015e39d6.chunk.css",
-    "static/js/main.3926472c.chunk.js"
+    "static/js/2.117cf7c2.chunk.js",
+    "static/css/main.478a01c6.chunk.css",
+    "static/js/main.c421e5d2.chunk.js"
   ]
 }
