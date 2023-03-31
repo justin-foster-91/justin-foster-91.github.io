@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fc9f4fa63679e79e11a1ac320e997732",
+    "revision": "ac42c021214693d2b0cfa43a35954ee6",
     "url": "/index.html"
   },
   {
-    "revision": "35ce758a93f09b5b1cc9",
-    "url": "/static/css/main.fc4b097d.chunk.css"
+    "revision": "de5ca2819d27426f02e3",
+    "url": "/static/css/main.8c40f774.chunk.css"
   },
   {
-    "revision": "3193f9c740dcded74be6",
-    "url": "/static/js/2.0552ce2e.chunk.js"
+    "revision": "469c863266e238d27afa",
+    "url": "/static/js/2.698b4247.chunk.js"
   },
   {
     "revision": "bfbf98b39da508f522b8cab91a8e0702",
-    "url": "/static/js/2.0552ce2e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.698b4247.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "35ce758a93f09b5b1cc9",
-    "url": "/static/js/main.3da2d96d.chunk.js"
+    "revision": "de5ca2819d27426f02e3",
+    "url": "/static/js/main.0e922c8a.chunk.js"
   },
   {
     "revision": "430f72daf7c3a4d42642",
     "url": "/static/js/runtime-main.351e9c47.js"
+  },
+  {
+    "revision": "3ba5bd5b1f434a21b76688696502d43a",
+    "url": "/static/media/CodeSharingApp.3ba5bd5b.PNG"
   },
   {
     "revision": "765e4e8f717f695939fdea4c5af804c3",
@@ -40,20 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Spaced_Repetition.d9b78851.jpg"
   },
   {
-    "revision": "271b6216ef7ef677243fb4af90c7f3ad",
-    "url": "/static/media/Stopwatch.271b6216.PNG"
-  },
-  {
-    "revision": "3f1787381e573964c4752b32e4ca3f34",
-    "url": "/static/media/breakout.3f178738.png"
-  },
-  {
     "revision": "fa4ceab1baa01b2a7164b1fbf2ee8dc8",
     "url": "/static/media/desk-typing-filter.fa4ceab1.png"
-  },
-  {
-    "revision": "1e670d88b23c7ab956f1829e3828a210",
-    "url": "/static/media/digital-7.1e670d88.ttf"
   },
   {
     "revision": "f5c3bdd0b4922dc612d6af962c398a4d",
@@ -62,9 +54,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "64b7e553ed8c10982d83fe55dd1c7269",
     "url": "/static/media/myAvatar.64b7e553.png"
-  },
-  {
-    "revision": "212ad00bace40bc8fd466eb434bfcd2d",
-    "url": "/static/media/nexus.212ad00b.png"
   }
 ]);

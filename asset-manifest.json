@@ -1,33 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.fc4b097d.chunk.css",
-    "main.js": "/static/js/main.3da2d96d.chunk.js",
-    "main.js.map": "/static/js/main.3da2d96d.chunk.js.map",
+    "main.css": "/static/css/main.8c40f774.chunk.css",
+    "main.js": "/static/js/main.0e922c8a.chunk.js",
+    "main.js.map": "/static/js/main.0e922c8a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.351e9c47.js",
     "runtime-main.js.map": "/static/js/runtime-main.351e9c47.js.map",
-    "static/js/2.0552ce2e.chunk.js": "/static/js/2.0552ce2e.chunk.js",
-    "static/js/2.0552ce2e.chunk.js.map": "/static/js/2.0552ce2e.chunk.js.map",
+    "static/js/2.698b4247.chunk.js": "/static/js/2.698b4247.chunk.js",
+    "static/js/2.698b4247.chunk.js.map": "/static/js/2.698b4247.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4779939afb234875699b370ec3671852.js": "/precache-manifest.4779939afb234875699b370ec3671852.js",
+    "precache-manifest.b8258bcf917a46dfc471eb7179ced233.js": "/precache-manifest.b8258bcf917a46dfc471eb7179ced233.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.fc4b097d.chunk.css.map": "/static/css/main.fc4b097d.chunk.css.map",
-    "static/js/2.0552ce2e.chunk.js.LICENSE.txt": "/static/js/2.0552ce2e.chunk.js.LICENSE.txt",
+    "static/css/main.8c40f774.chunk.css.map": "/static/css/main.8c40f774.chunk.css.map",
+    "static/js/2.698b4247.chunk.js.LICENSE.txt": "/static/js/2.698b4247.chunk.js.LICENSE.txt",
+    "static/media/CodeSharingApp.PNG": "/static/media/CodeSharingApp.3ba5bd5b.PNG",
     "static/media/CodeSpells.png": "/static/media/CodeSpells.765e4e8f.png",
     "static/media/GOAT.png": "/static/media/GOAT.ae1d003b.png",
     "static/media/Logbook.png": "/static/media/Logbook.9dca26bb.png",
     "static/media/Spaced_Repetition.jpg": "/static/media/Spaced_Repetition.d9b78851.jpg",
-    "static/media/Stopwatch.PNG": "/static/media/Stopwatch.271b6216.PNG",
-    "static/media/breakout.png": "/static/media/breakout.3f178738.png",
     "static/media/App.css": "/static/media/desk-typing-filter.fa4ceab1.png",
-    "static/media/Stopwatch.css": "/static/media/digital-7.1e670d88.ttf",
     "static/media/me.jpeg": "/static/media/me.f5c3bdd0.jpeg",
-    "static/media/myAvatar.png": "/static/media/myAvatar.64b7e553.png",
-    "static/media/nexus.png": "/static/media/nexus.212ad00b.png"
+    "static/media/myAvatar.png": "/static/media/myAvatar.64b7e553.png"
   },
   "entrypoints": [
     "static/js/runtime-main.351e9c47.js",
-    "static/js/2.0552ce2e.chunk.js",
-    "static/css/main.fc4b097d.chunk.css",
-    "static/js/main.3da2d96d.chunk.js"
+    "static/js/2.698b4247.chunk.js",
+    "static/css/main.8c40f774.chunk.css",
+    "static/js/main.0e922c8a.chunk.js"
   ]
 }
