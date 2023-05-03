@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac42c021214693d2b0cfa43a35954ee6",
+    "revision": "c022a62c6c618536496a4472020be3ff",
     "url": "/index.html"
   },
   {
-    "revision": "de5ca2819d27426f02e3",
+    "revision": "2adafcbfff4cbf5483f2",
     "url": "/static/css/main.8c40f774.chunk.css"
   },
   {
-    "revision": "469c863266e238d27afa",
-    "url": "/static/js/2.698b4247.chunk.js"
+    "revision": "be2c91bd7c3fdaec9469",
+    "url": "/static/js/2.8ab9dd80.chunk.js"
   },
   {
     "revision": "bfbf98b39da508f522b8cab91a8e0702",
-    "url": "/static/js/2.698b4247.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8ab9dd80.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de5ca2819d27426f02e3",
-    "url": "/static/js/main.0e922c8a.chunk.js"
+    "revision": "2adafcbfff4cbf5483f2",
+    "url": "/static/js/main.54e8d30f.chunk.js"
   },
   {
     "revision": "430f72daf7c3a4d42642",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d9b78851f5f0bf1c403a559918b82cb2",
     "url": "/static/media/Spaced_Repetition.d9b78851.jpg"
+  },
+  {
+    "revision": "0bd524d77ec31e78d884b7f1cde98ae5",
+    "url": "/static/media/Starfinder_Demo.0bd524d7.PNG"
   },
   {
     "revision": "fa4ceab1baa01b2a7164b1fbf2ee8dc8",
